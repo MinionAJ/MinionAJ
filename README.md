@@ -101,7 +101,7 @@ Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no E
 ## ☁ projeto_aws_pharma_cloud
 
 <img 
-  src="assests/diagrama_arquitetura_aws.jpeg"
+  src="assets/diagrama_arquitetura_aws.jpeg"
   width="200"
 />
 
