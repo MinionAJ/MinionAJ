@@ -102,7 +102,7 @@ Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no E
 
 <img 
   src="assests/diagrama_arquitetura_aws.jpeg"
-  width="100%"
+  width="200"
 />
 
 Este relatório apresenta a proposta de implementação de serviços AWS na empresa Abstergo Industries, uma empresa farmacêutica especializada na distribuição de medicamentos e insumos para outras empresas do setor farmacêutico.
