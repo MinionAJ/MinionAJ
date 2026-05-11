@@ -18,48 +18,26 @@
 
 # 👨‍💻 Sobre mim
 
+<!-- GIF CYBERPUNK -->
+
 <img 
   align="right" 
-  alt="Cyberpunk Coding"
-  width="320"
+  width="200"
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d1b3J5dzFybTRsdzBqZ2N1eHBsZm9iNnQ3bW1tM2N4M2tqOWQ0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"
 />
 
-```yaml
-name: Adilson Corrêa
-located_in: Brazil
-current_job: Logistics @ GDBR Toyoda Gosei
-education:
-  [
-    "Systems Analysis and Development - Fatec"
-  ]
+<!-- INTRO -->
 
-fields_of_interests:
-  [
-    "Artificial Intelligence",
-    "Data Engineering",
-    "Automation",
-    "Backend Development",
-    "Data Science"
-  ]
+🚛 Trabalho no setor de logística na **GDBR Toyoda Gosei**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Itapetininga  
+🤖 Estudando **Engenharia de Dados**, **IA** e desenvolvimento de aplicações inteligentes  
+📚 Evoluindo diariamente em programação, automação e tecnologia  
+⚡ Objetivo: construir projetos modernos com foco em dados e inteligência artificial
 
-currently_learning:
-  [
-    "Python",
-    "Data Engineering",
-    "Machine Learning",
-    "Flutter"
-  ]
-
-goals_2026:
-  [
-    "Construir projetos de IA",
-    "Atuar profissionalmente com dados",
-    "Criar soluções inteligentes"
-  ]
-```
+<br>
 
 ---
+<!-- SEGUIDORES E ESTRELAS -->
 
 <p align="left">
     <a href="https://github.com/MinionAJ?tab=followers">
@@ -79,6 +57,100 @@ goals_2026:
 </p>
 
 ---
+<!-- TECNOLOGIAS -->
+
+# ⚡ Tecnologias
+
+<p align="center">
+  <img
+   width="300"
+    src="https://skillicons.dev/icons?i=python,git,flutter,dart,vscode,github,linux&theme=dark"
+  />
+</p>
+
+---
+<!-- PROJETOS -->
+
+# 🚀 Projetos em Destaque
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🎮 Xbox Gamepass Dashboard
+
+<img 
+  src="assets/dashboard-preview1.png"
+  width="200"
+/>
+
+Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no Excel, com foco na análise de dados de assinaturas do Xbox Game Pass.
+<br>
+
+<a href="https://github.com/MinionAJ/xbox-gamepass-dashboard">
+  <img 
+    src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+  />
+</a>
+
+</td>
+
+<td width="50%">
+
+## ☁ projeto_aws_pharma_cloud
+
+<img 
+  src="assests/diagrama_arquitetura_aws.jpeg"
+  width="100%"
+/>
+
+Este relatório apresenta a proposta de implementação de serviços AWS na empresa Abstergo Industries, uma empresa farmacêutica especializada na distribuição de medicamentos e insumos para outras empresas do setor farmacêutico.
+<br>
+
+<a href="https://github.com/MinionAJ/projeto_aws_pharma_cloud">
+  <img 
+    src="https://img.shields.io/badge/View_Project-7B00FF?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<p align="center">
+
+<img 
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api?username=MinionAJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=C9D1D9"
+/>
+
+<img 
+  height="170em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinionAJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
+/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Contribuições
+
+<p align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MinionAJ&bg_color=0D1117&color=00F7FF&line=7B00FF&point=FFFFFF&hide_border=true"
+/>
+
+</p>
+
+---
+
 # 🌐 Redes Sociais
 
 <p align="center">
@@ -101,66 +173,14 @@ goals_2026:
 
 ---
 
-# ⚡ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,flutter,dart,vscode,github,linux&theme=dark" />
-</p>
-
----
-
-# 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/MinionAJ/xbox-gamepass-dashboard">
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MinionAJ&repo=xbox-gamepass-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
-    />
-  </a>
-
-  <a href="https://github.com/MinionAJ/barcode_scanner_app">
-    <img 
-      height="160em" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=MinionAJ&repo=https://github.com/MinionAJ/barcode_scanner_app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
-    />
-  </a>
-</p>
-
----
-
-# 📊 Estatísticas GitHub
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=MinionAJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=C9D1D9"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinionAJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
-  />
-</p>
-
----
-
-# 📈 Gráfico de Contribuições
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MinionAJ&bg_color=0D1117&color=00F7FF&line=7B00FF&point=FFFFFF&hide_border=true"
-  />
-</p>
-
----
-
 # 🐍 Snake Animation
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
+
+<img 
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+/>
+
 </p>
 
 ---
