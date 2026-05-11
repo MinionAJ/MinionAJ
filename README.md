@@ -18,14 +18,6 @@
 
 # 👨‍💻 Sobre mim
 
-<!-- GIF CYBERPUNK -->
-
-<img 
-  align="right" 
-  width="200"
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d1b3J5dzFybTRsdzBqZ2N1eHBsZm9iNnQ3bW1tM2N4M2tqOWQ0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"
-/>
-
 <!-- INTRO -->
 
 🚛 Trabalho no setor de logística na **GDBR Toyoda Gosei**  
@@ -37,6 +29,15 @@
 <br>
 
 ---
+
+<!-- GIF CYBERPUNK -->
+
+<img 
+  align="center" 
+  width="280"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2d1b3J5dzFybTRsdzBqZ2N1eHBsZm9iNnQ3bW1tM2N4M2tqOWQ0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"
+/>
+
 <!-- SEGUIDORES E ESTRELAS -->
 
 <p align="left">
@@ -73,14 +74,10 @@
 
 # 🚀 Projetos em Destaque
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🎮 Xbox Gamepass Dashboard
 
 <img 
+  align="center" 
   src="assets/dashboard-preview1.png"
   width="200"
 />
@@ -94,13 +91,31 @@ Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no E
   />
 </a>
 
-</td>
+---
 
-<td width="50%">
+## 🔑 API REST com JWT Authentication — FastAPI
 
-## ☁ projeto_aws_pharma_cloud
+<img
+  align="center" 
+  src="assets/CRUD.png"
+  width="200"
+/>
 
-<img 
+Projeto backend desenvolvido utilizando Python e FastAPI com autenticação JWT, criptografia de senhas e estruturação de API REST moderna.
+<br>
+
+<a href="https://github.com/MinionAJ/api_usuario_jwt">
+  <img 
+    src="https://img.shields.io/badge/View_Project-7B00FF?style=for-the-badge&logo=github&logoColor=white"
+  />
+</a>
+
+---
+
+## ☁ RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+<img
+  align="center" 
   src="assets/diagrama_arquitetura_aws.jpeg"
   width="200"
 />
@@ -113,11 +128,6 @@ Este relatório apresenta a proposta de implementação de serviços AWS na empr
     src="https://img.shields.io/badge/View_Project-7B00FF?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
