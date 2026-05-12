@@ -74,31 +74,12 @@
 
 # 🚀 Projetos em Destaque
 
-## 🎮 Xbox Gamepass Dashboard
-
-<img 
-  align="center" 
-  src="assets/dashboard-preview1.png"
-  width="200"
-/>
-
-Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no Excel, com foco na análise de dados de assinaturas do Xbox Game Pass.
-<br>
-
-<a href="https://github.com/MinionAJ/xbox-gamepass-dashboard">
-  <img 
-    src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"
-  />
-</a>
-
----
-
 ## 🔑 API REST com JWT Authentication — FastAPI
 
 <img
   align="center" 
-  src="assets/CRUD.png"
-  width="200"
+  src="assets/swagger.png"
+  width="800"
 />
 
 Projeto backend desenvolvido utilizando Python e FastAPI com autenticação JWT, criptografia de senhas e estruturação de API REST moderna.
@@ -112,15 +93,34 @@ Projeto backend desenvolvido utilizando Python e FastAPI com autenticação JWT,
 
 ---
 
+## 🎮 Xbox Gamepass Dashboard
+
+<img 
+  align="center" 
+  src="assets/dashboard-preview1.png"
+  width="800"
+/>
+
+Este projeto consiste em um Dashboard de Business Intelligence desenvolvido no Excel, com foco na análise de dados de assinaturas do Xbox Game Pass.
+<br>
+
+<a href="https://github.com/MinionAJ/xbox-gamepass-dashboard">
+  <img 
+    src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+  />
+</a>
+
+---
+
 ## ☁ RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 <img
   align="center" 
   src="assets/diagrama_arquitetura_aws.jpeg"
-  width="200"
+  width="800"
 />
 
-Este relatório apresenta a proposta de implementação de serviços AWS na empresa Abstergo Industries, uma empresa farmacêutica especializada na distribuição de medicamentos e insumos para outras empresas do setor farmacêutico.
+Este relatório apresenta a proposta de implementação de serviços AWS na empresa Abstergo Industries (fictícia), uma empresa farmacêutica especializada na distribuição de medicamentos e insumos para outras empresas do setor farmacêutico.
 <br>
 
 <a href="https://github.com/MinionAJ/projeto_aws_pharma_cloud">
@@ -128,24 +128,6 @@ Este relatório apresenta a proposta de implementação de serviços AWS na empr
     src="https://img.shields.io/badge/View_Project-7B00FF?style=for-the-badge&logo=github&logoColor=white"
   />
 </a>
-
----
-
-# 📊 Estatísticas GitHub
-
-<p align="center">
-
-<img 
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api?username=MinionAJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7B00FF&text_color=C9D1D9"
-/>
-
-<img 
-  height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinionAJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"
-/>
-
-</p>
 
 ---
 
