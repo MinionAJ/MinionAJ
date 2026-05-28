@@ -187,15 +187,6 @@ Este relatório apresenta a proposta de implementação de serviços AWS na empr
 
 ---
 
-# ⭐ Troféus GitHub 
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MinionAJ&theme=algolia&no-frame=true&row=1&column=6"
-  />
-</p>
-
----
 
 <!-- FOOTER -->
 
